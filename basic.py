@@ -1,3 +1,4 @@
+#--------------------------------------BASIC OF STACK-------------------------------
 class stack():
     def __init__(self,maxlength):
         self.maxlength=maxlength

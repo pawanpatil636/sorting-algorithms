@@ -1,3 +1,4 @@
+#----------------------------selection sort---------------------------------------
 a=[]
 for i in range(0,5):
     q=int(input("the input is :"))
